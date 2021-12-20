@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWkOE2R/GdUxEfx+stXjlc548ebZ/eRo4+rKu8aoFYPzgUgNM6p8bVzAi6mOLuq+sp30tI4jh6ENd6lC/Mzklw==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\CalendarAPI\\CalendarAPIMock\\CalendarAPI\\CalendarAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jupoe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jupoe\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jupoe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jupoe\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

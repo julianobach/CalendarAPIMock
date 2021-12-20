@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalendarDataBase/1.0.0": {
+        "dependencies": {
+          "CalendarModel": "1.0.0"
+        },
+        "runtime": {
+          "CalendarDataBase.dll": {}
+        }
+      },
+      "CalendarModel/1.0.0": {
+        "runtime": {
+          "CalendarModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalendarDataBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalendarModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

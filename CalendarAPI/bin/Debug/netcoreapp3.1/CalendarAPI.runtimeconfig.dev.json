@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jupoe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jupoe\\.nuget\\packages"
+    ]
+  }
+}
